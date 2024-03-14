@@ -2,5 +2,5 @@
 # muestre cuántos años le faltan para alcanzar los 100 años.
 
 
-edad = int(input("Ingresá tu número: "))
+edad = int(input("Ingresá tu númeroooo: "))
 print(f"Le falta esta cantidad de anios para alcanzar los 100:  {100-edad}")
